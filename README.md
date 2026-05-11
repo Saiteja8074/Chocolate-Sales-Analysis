@@ -1,5 +1,5 @@
 
-# 🍫 Chocolate Shipments Sales Dashboard💰
+# 🍫 Chocolate Shipments Sales Dashboard
 
 A Power BI report delivering end-to-end visibility into chocolate shipment sales — tracking revenue, profitability, and team performance across global markets from 2023 to 2025.
 
